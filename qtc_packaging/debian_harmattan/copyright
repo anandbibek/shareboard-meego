@@ -1,0 +1,24 @@
+This package was debianized by unknown <> on
+Mon, 10 Dec 2012 09:24:32 +0530.
+
+It was downloaded from <url://example.com>
+
+Upstream Author(s):
+
+    <put author's name and email here>
+    <likewise for another author>
+
+Copyright:
+
+    <Copyright (C) 2013 Anand Bibek>
+    <likewise for another author>
+
+License:
+
+
+
+The Debian packaging is (C) 2013, Anand
+
+
+# Please also look if there are files or directories which have a
+# different copyright/license attached and list them here.
